@@ -35,7 +35,7 @@ paginate: 10
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -119,9 +119,9 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
-  archives: /archives/
   tags: /tags/
+  archives: /archives/
+  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
