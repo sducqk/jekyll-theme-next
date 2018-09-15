@@ -90,7 +90,7 @@ rss:
 #since: 2009
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: fighter-jet
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -274,7 +274,7 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button
   scrollpercent: true
