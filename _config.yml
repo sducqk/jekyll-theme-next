@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 流放之地
 subtitle:
 description:
 author: Sirus
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://75kg.top/
 baseurl:
 permalink: none
 
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2009
+since: 2009
 
 # icon between year and author @Footer
 authoricon: fighter-jet
@@ -316,7 +316,7 @@ post_meta:
 
 # Post wordcount display settings
 post_wordcount:
-  item_text: true
+  item_text: false
   wordcount: true
   min2read: false
   separated_meta: true
@@ -375,8 +375,6 @@ han: false
 # Baidu Analytics ID
 #baidu_analytics:
 
-# Duoshuo ShortName
-#duoshuo_shortname:
 
 # Disqus
 disqus:
@@ -393,9 +391,6 @@ disqus:
 # Gentie productKey
 #gentie_productKey:
 
-# Support for youyan comments system.
-# You can get your uid from http://www.uyan.cc
-#youyan_uid: your uid
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -579,7 +574,7 @@ use_motion: false
 fancybox: true
 
 # Progress bar in the top during page loading.
-pace: false
+pace: true
 # Themes list:
 #pace-theme-big-counter
 #pace-theme-bounce
