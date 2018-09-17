@@ -394,7 +394,7 @@ disqus:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC8zOTc2NC8xNjI5MQ==
 
 # Support for gitalk comments system.
 gitalk:
